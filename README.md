@@ -1,11 +1,11 @@
 # sophomore_datastructure
 大二的数据结构作业
 
-**作业2**
+**作业2**  
 ![Image1](https://raw.githubusercontent.com/lidmir/sophomore_datastructure/master/img/%E4%B8%8A%E6%9C%BA%E4%BD%9C%E4%B8%9A2.1-2.3.jpg)
 ![Image2](https://raw.githubusercontent.com/lidmir/sophomore_datastructure/master/img/%E4%B8%8A%E6%9C%BA%E4%BD%9C%E4%B8%9A2.4.jpg)
 
-**作业3**
+**作业3**  
 1、
 Josephus问题，n个人围坐成一圈，按顺序编号为1－n，确定一个整数m，从1号开始数数，每数到第m个人出列，剩下的人从下一个人重新开始数，直至只剩下一个人为止。对n=8，m=5，过程和结果如下图所示，黑色数字为编号，红色数字为出列顺序，最后剩下的是3号
 
@@ -36,7 +36,7 @@ c e t b
 
 注意：应正确处理输入中空栈等情况。
 
-**作业4**
+**作业4**  
 1、
 所谓双端队列（double-ended queue，deque），就是在列表的两端都可以插入和删除数据。因此它允许的操作有Create、IsEmpty、IsFull、Left、Right、AddLeft、AddRight、DeleteLeft、DeleteRight。使用循环数组方式实现双端队列，要求实现上述操作，并实现一个Print输出操作，能将队列由左至右的次序输出于一行，元素间用空格间隔。队列元素类型设为整型。
 输入：input.txt，给出一个操作序列，可能是Create、Print之外的任何操作，需要的情况下，会给出参数。最后以关键字“End”结束，例如：  
@@ -99,7 +99,7 @@ d、求二叉树的宽度，即同一层次上最多的节点数
 
 要求以任意可行的方式输入一棵二叉树，程序依次显示上述各项处理的结果。
 
-**作业5**
+**作业5**  
 1、
 编写函数，计算AVL树的高度，要求说明该函数是所有算法中最优的。
 
